@@ -5,6 +5,8 @@
 - 💬 Ask me about Angular, Typescript, RxJs and NgRx stuff.
 - 📫 How to reach me: [@Enea_Jahollari](https://twitter.com/Enea_Jahollari) ...
 
+- 👋 My simple [portfolio](https://eneajaho.github.io)
+
 - ⚡ Code gists: 
   - [Angular ESLint & Prettier Configuration](https://gist.github.com/eneajaho/17bbcf71c44eabf56d404b028572b97b)
   - [Provide function with InjectionToken](https://gist.github.com/eneajaho/28c4ef1d75bf1d8733cec23e54068c0a)
