@@ -15,6 +15,7 @@
     - [Default image on error](https://gist.github.com/eneajaho/540f279686fede9160faa087a9bdd4c9)
     - [Server/Client side only](https://gist.github.com/eneajaho/558f8480237ede41cf9c03d47781628b)
     - [Double check](https://gist.github.com/eneajaho/7efbfdf73733311d6229b5de28e3abed)
+    - [Click outside](https://gist.github.com/eneajaho/d27231d97981a01399bf3881943cd969)
     - [Translucent](https://gist.github.com/eneajaho/847e9551e1927aa6658edb7f45a9a06a)
     - [Scroll to top](https://gist.github.com/eneajaho/2caf4c0f3336116b4d50d8447419b702)
 
